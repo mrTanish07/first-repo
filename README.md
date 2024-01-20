@@ -1,2 +1,3 @@
 # first-repo
-This is my first repo created for demo
+This is my first repo created for demo <br>
+Author - Tanish Kumar
