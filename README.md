@@ -1,2 +1,2 @@
 # first-repo
-first repo created just fir demo
+This is my first repo created for demo
